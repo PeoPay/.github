@@ -6,7 +6,7 @@ PeoPay is a blockchain-powered financial ecosystem designed to redefine financia
 
 ## 🌟 Key Projects
 
-- **[PeoPay Documentation](https://peopay.github.io/PeoPay-Docs/):** Comprehensive documentation for PeoPay, including white papers, strategic plans, user guides, and API documentation.
+- **[PeoPay Documentation](https://docs.peopay.io/):** Comprehensive documentation for PeoPay, including white papers, strategic plans, user guides, and API documentation.
 - **[PeoCoin](https://github.com/PeoPay/PeoCoin):** The core token powering the PeoPay ecosystem, enabling transactions, staking, governance, and rewards.
 - **PeoProve**: A dynamic contribution scoring system that incentivizes positive participation in the ecosystem.
 - **Mobile Money Integration**: Seamless crypto-to-mobile transactions to enhance financial accessibility.
@@ -20,7 +20,7 @@ PeoPay envisions a world where financial tools are accessible to everyone, break
 
 ## 📖 Explore
 
-- **[PeoPay Documentation](https://peopay.github.io/PeoPay-Docs/):** Learn more about our vision, products, and ecosystem.
+- **[PeoPay Documentation](https://docs.peopay.io/):** Learn more about our vision, products, and ecosystem.
 - **[PeoCoin Repository](https://github.com/PeoPay/PeoCoin):** Explore the PeoCoin smart contracts, technical architecture, and tokenomics.
 - **[Developer Hub](https://github.com/PeoPay/Developer-Hub):** Tools and resources for integrating with PeoPay.
 
