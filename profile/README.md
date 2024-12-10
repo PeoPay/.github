@@ -20,7 +20,7 @@ PeoPay envisions a world where financial tools are accessible to everyone, break
 
 ## 📖 Explore
 
-- **[PeoPay Documentation](https://github.com/PeoPay/PeoPay-Docs):** Learn more about our vision, products, and ecosystem.
+- **[PeoPay Documentation](https://peopay.github.io/PeoPay-Docs/):** Learn more about our vision, products, and ecosystem.
 - **[PeoCoin Repository](https://github.com/PeoPay/PeoCoin):** Explore the PeoCoin smart contracts, technical architecture, and tokenomics.
 - **[Developer Hub](https://github.com/PeoPay/Developer-Hub):** Tools and resources for integrating with PeoPay.
 
